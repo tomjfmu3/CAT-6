@@ -1,0 +1,13 @@
+body {
+
+    color: white;
+    
+    background-image: url("https://www.visit-hampshire.co.uk/imageresizer/?image=%2fdbimgs%2fRiver%20Itchen%20Banner%201.jpg&action=MainGalleryImg");
+    background-size: cover;
+    background-blend-mode: screen;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 {
+    color: black;
+}
